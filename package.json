@@ -18,9 +18,13 @@
   "type": "commonjs",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo Hello world"
   },
   "devDependencies": {
     "electron": "^37.2.3"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
   }
 }
