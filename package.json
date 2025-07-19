@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "An App For My Brother",
+  "keywords": [
+    "app"
+  ],
+  "homepage": "https://github.com/jsah-mc/app#readme",
+  "bugs": {
+    "url": "https://github.com/jsah-mc/app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsah-mc/app.git"
+  },
+  "license": "MIT",
+  "author": "jsah-mc",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo Hello world"
+  },
+  "devDependencies": {
+    "electron": "^37.2.3"
+  }
+}
